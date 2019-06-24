@@ -68,7 +68,7 @@ b4 = np.random.randn(2, 1)
 w5 = np.random.randn(1, 2)
 b5 = np.random.randn(1, 1)
 
-iterations = 3000
+iterations = 5000
 lr = 0.1
 costlist = []
 
